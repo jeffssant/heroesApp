@@ -15,6 +15,5 @@ import { Heroe } from '../../interfaces/heroes.interface';
 export class HeroeTarjetaComponent  {
 
   @Input() item!:Heroe; 
-
-
+  
 }
