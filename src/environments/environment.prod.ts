@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  baseUrl:'http://jeffersonsantana.com.br/heroecards'
 };
