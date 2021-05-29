@@ -33,7 +33,7 @@ const routes: Routes = [
         component: HeroeComponent
       },
       {
-        path: ':**',
+        path: '**',
         redirectTo: 'listado'
       },
     ]
